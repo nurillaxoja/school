@@ -1,0 +1,17 @@
+New user was created with name -> aaa username -> aaa gender-> male date of Brith -> 28.08.2021 0:00:00 photo name -> aaa.jpg this file was created at --->14.08.2021 10:10:19
+"aaa"user logged in system at 14.08.2021 10:10:26
+aaa user entered Classes 14.08.2021 10:10:42
+aaa user entered Classes 14.08.2021 10:10:42
+aaa user entered 1 Classes 14.08.2021 10:10:44
+aaa user entered Classes 14.08.2021 10:11:01
+aaa user entered 1 Classes 14.08.2021 10:11:02
+aaa user entered Classes 14.08.2021 10:11:05
+aaa user entered 2 Classes 14.08.2021 10:11:07
+aaa user entered Classes 14.08.2021 10:11:11
+aaa user enterd log.txt  14.08.2021 10:11:15
+aaa user entered Classes 14.08.2021 10:11:41
+aaa user entered Classes 14.08.2021 10:11:41
+aaa user entered 1 Classes 14.08.2021 10:11:44
+aaa user entered Classes 14.08.2021 10:11:49
+aaa user Closed Programm 14.08.2021 10:12:09
+
